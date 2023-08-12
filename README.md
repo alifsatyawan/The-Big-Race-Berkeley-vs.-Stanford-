@@ -7,6 +7,7 @@ Developed a real-time scoring system and a 10-level game progression by incremen
 
 <img width="800" alt="Screenshot 2023-08-12 at 3 22 48 PM" src="https://github.com/alifsatyawan/The-Big-Race-Berkeley-vs.-Stanford-/assets/141614747/0148afa0-b96d-47b4-929a-a732234f61de">
 
+# Here's the race
 
 <img width="800" alt="Screenshot 2023-08-12 at 3 22 19 PM" src="https://github.com/alifsatyawan/The-Big-Race-Berkeley-vs.-Stanford-/assets/141614747/079718bc-7f45-4b84-b39d-c962f278c5f6">
 
